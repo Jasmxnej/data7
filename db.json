@@ -248,6 +248,26 @@
       }
     }
   }
+},
+    {
+  "id": "DOM",
+  "name": "Dominican Republic",
+  "continent": "America",
+  "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/DOM.png",
+  "total_medals": 3,
+  "medals_by_sport": {
+    "until_2024": {
+      "sports": [
+        { "name": "Athletics", "gold": 1, "silver": 0, "bronze": 0 },
+        { "name": "Boxing", "gold": 0, "silver": 0, "bronze": 2 }
+      ],
+      "total": {
+        "gold": 1,
+        "silver": 0,
+        "bronze": 2
+      }
+    }
+  }
 }
   ]
 }
