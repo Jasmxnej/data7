@@ -1,0 +1,253 @@
+{
+  "data7": [
+   {
+  "id": "ETH",
+  "name": "Ethiopia",
+  "continent": "Africa",
+  "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/ETH.png",
+  "total_medals": 4,
+  "medals_by_sport": {
+    "until_2024": {
+      "sports": [
+        { "name": "Athletics", "gold": 1, "silver": 3, "bronze": 0 }
+      ],
+      "total": {
+        "gold": 1,
+        "silver": 3,
+        "bronze": 0
+      }
+    }
+  }
+},
+    {
+  "id": "SUI",
+  "name": "Switzerland",
+  "continent": "Europe",
+  "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/SUI.png",
+  "total_medals": 8,
+  "medals_by_sport": {
+    "until_2024": {
+      "sports": [
+        { "name": "Beach Volleyball", "gold": 0, "silver": 0, "bronze": 1 },
+        { "name": "Cycling BMX Racing", "gold": 0, "silver": 0, "bronze": 1 },
+        { "name": "Equestrian", "gold": 0, "silver": 1, "bronze": 0 },
+        { "name": "Rowing", "gold": 0, "silver": 0, "bronze": 1 },
+        { "name": "Shooting", "gold": 1, "silver": 0, "bronze": 1 },
+        { "name": "Swimming", "gold": 0, "silver": 0, "bronze": 1 },
+        { "name": "Triathlon", "gold": 0, "silver": 1, "bronze": 0 }
+      ],
+      "total": {
+        "gold": 1,
+        "silver": 2,
+        "bronze": 5
+      }
+    }
+  }
+},
+    {
+  "id": "ECU",
+  "name": "Ecuador",
+  "continent": "America",
+  "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/ECU.png",
+  "total_medals": 5,
+  "medals_by_sport": {
+    "until_2024": {
+      "sports": [
+        { "name": "Athletics", "gold": 1, "silver": 1, "bronze": 0 },
+        { "name": "Weightlifting", "gold": 0, "silver": 0, "bronze": 2 },
+        { "name": "Wrestling", "gold": 0, "silver": 1, "bronze": 0 }
+      ],
+      "total": {
+        "gold": 1,
+        "silver": 2,
+        "bronze": 2
+      }
+    }
+  }
+},
+    {
+  "id": "PRT",
+  "name": "Portugal",
+  "continent": "Europe",
+  "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/PRT.png",
+  "total_medals": 4,
+  "medals_by_sport": {
+    "until_2024": {
+      "sports": [
+        { "name": "Athletics", "gold": 0, "silver": 1, "bronze": 0 },
+        { "name": "Cycling Track", "gold": 1, "silver": 1, "bronze": 0 },
+        { "name": "Judo", "gold": 0, "silver": 0, "bronze": 1 }
+      ],
+      "total": {
+        "gold": 1,
+        "silver": 2,
+        "bronze": 1
+      }
+    }
+  }
+},
+    {
+  "id": "GRC",
+  "name": "Greece",
+  "continent": "Europe",
+  "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/GRC.png",
+  "total_medals": 8,
+  "medals_by_sport": {
+    "until_2024": {
+      "sports": [
+        { "name": "Artistic Gymnastics", "gold": 0, "silver": 0, "bronze": 1 },
+        { "name": "Athletics", "gold": 1, "silver": 0, "bronze": 1 },
+        { "name": "Judo", "gold": 0, "silver": 0, "bronze": 1 },
+        { "name": "Rowing", "gold": 0, "silver": 0, "bronze": 2 },
+        { "name": "Swimming", "gold": 0, "silver": 1, "bronze": 0 },
+        { "name": "Wrestling", "gold": 0, "silver": 0, "bronze": 1 }
+      ],
+      "total": {
+        "gold": 1,
+        "silver": 1,
+        "bronze": 6
+      }
+    }
+  }
+},
+    {
+  "id": "ARG",
+  "name": "Argentina",
+  "continent": "America",
+  "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/ARG.png",
+  "total_medals": 3,
+  "medals_by_sport": {
+    "until_2024": {
+      "sports": [
+        { "name": "Cycling BMX Freestyle", "gold": 1, "silver": 0, "bronze": 0 },
+        { "name": "Hockey", "gold": 0, "silver": 0, "bronze": 1 },
+        { "name": "Sailing", "gold": 0, "silver": 1, "bronze": 0 }
+      ],
+      "total": {
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      }
+    }
+  }
+},
+    {
+  "id": "EGY",
+  "name": "Egypt",
+  "continent": "Africa",
+  "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/EGY.png",
+  "total_medals": 3,
+  "medals_by_sport": {
+    "until_2024": {
+      "sports": [
+        { "name": "Fencing", "gold": 0, "silver": 0, "bronze": 1 },
+        { "name": "Modern Pentathlon", "gold": 1, "silver": 0, "bronze": 0 },
+        { "name": "Weightlifting", "gold": 0, "silver": 1, "bronze": 0 }
+      ],
+      "total": {
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      }
+    }
+  }
+},
+    {
+  "id": "TUN",
+  "name": "Tunisia",
+  "continent": "Africa",
+  "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/TUN.png",
+  "total_medals": 3,
+  "medals_by_sport": {
+    "until_2024": {
+      "sports": [
+        { "name": "Fencing", "gold": 0, "silver": 1, "bronze": 0 },
+        { "name": "Taekwondo", "gold": 1, "silver": 0, "bronze": 1 }
+      ],
+      "total": {
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      }
+    }
+  }
+},
+    {
+  "id": "BWA",
+  "name": "Botswana",
+  "continent": "Africa",
+  "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/BWA.png",
+  "total_medals": 2,
+  "medals_by_sport": {
+    "until_2024": {
+      "sports": [
+        { "name": "Athletics", "gold": 1, "silver": 1, "bronze": 0 }
+      ],
+      "total": {
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0
+      }
+    }
+  }
+},
+    {
+  "id": "CHL",
+  "name": "Chile",
+  "continent": "America",
+  "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/CHL.png",
+  "total_medals": 2,
+  "medals_by_sport": {
+    "until_2024": {
+      "sports": [
+        { "name": "Shooting", "gold": 1, "silver": 0, "bronze": 0 },
+        { "name": "Wrestling", "gold": 0, "silver": 1, "bronze": 0 }
+      ],
+      "total": {
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0
+      }
+    }
+  }
+},
+    {
+  "id": "LCA",
+  "name": "Saint Lucia",
+  "continent": "America",
+  "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/LCA.png",
+  "total_medals": 2,
+  "medals_by_sport": {
+    "until_2024": {
+      "sports": [
+        { "name": "Athletics", "gold": 1, "silver": 1, "bronze": 0 }
+      ],
+      "total": {
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0
+      }
+    }
+  }
+},
+    {
+  "id": "UGA",
+  "name": "Uganda",
+  "continent": "Africa",
+  "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/UGA.png",
+  "total_medals": 2,
+  "medals_by_sport": {
+    "until_2024": {
+      "sports": [
+        { "name": "Athletics", "gold": 1, "silver": 1, "bronze": 0 }
+      ],
+      "total": {
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0
+      }
+    }
+  }
+}
+  ]
+}
