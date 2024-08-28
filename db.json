@@ -69,7 +69,7 @@
   "id": "PRT",
   "name": "Portugal",
   "continent": "Europe",
-  "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/PRT.png",
+  "flag_url": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/POR.png",
   "total_medals": 4,
   "medals_by_sport": {
     "until_2024": {
@@ -90,7 +90,7 @@
   "id": "GRC",
   "name": "Greece",
   "continent": "Europe",
-  "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/GRC.png",
+  "flag_url": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/GRE.png",
   "total_medals": 8,
   "medals_by_sport": {
     "until_2024": {
@@ -196,7 +196,7 @@
   "id": "BWA",
   "name": "Botswana",
   "continent": "Africa",
-  "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/BWA.png",
+  "flag_url": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/BOT.png",
   "total_medals": 2,
   "medals_by_sport": {
     "until_2024": {
@@ -215,7 +215,7 @@
   "id": "CHL",
   "name": "Chile",
   "continent": "America",
-  "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/CHL.png",
+  "flag_url": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/CHI.png",
   "total_medals": 2,
   "medals_by_sport": {
     "until_2024": {
